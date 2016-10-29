@@ -116,5 +116,10 @@ body,html{
   section{
     padding-left: 15px;
   }
+
+
+#ex1Slider .slider-selection {
+  background: #BABABA;
+}
   
  
