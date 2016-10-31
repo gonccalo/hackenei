@@ -1,4 +1,5 @@
 # hackENEI2016
+
 # Traffic dataviz
 
 ## What is hackENEI2016?
@@ -8,7 +9,10 @@ We used a New York Traffic Data provided by Ubiwhere and we also opted to use Go
 ## Result
 Heatmap of the provided traffic data on a responsive webapp with data filtering
 
+## How
+Please check the presentation in PDF format at the root dir of this repository for more info
 
+# Using it
 
 ## Install
 
