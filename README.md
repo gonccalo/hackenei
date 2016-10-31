@@ -11,7 +11,8 @@ Heatmap of the provided traffic data on a responsive webapp with data filtering
 
 ## More Info
 Please check the presentation in PDF format at the root dir of this repository for more info
-Or just check it [here](https://goo.gl/lhJXh1) :) 
+
+Or just check it [here](https://goo.gl/lhJXh1) 
 # Using it
 
 ## Install
